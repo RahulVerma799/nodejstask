@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "cluster": "^0.7.7",
+    "express": "^4.19.2",
+    "node": "^22.8.0",
+    "nodemon": "^3.1.4",
+    "rate-limiter-flexible": "^5.0.3",
+    "redis": "^4.7.0",
+    "redis-server": "^1.2.2",
+    "winston": "^3.14.2"
+  }
+}
